@@ -1,4 +1,4 @@
-# NICK SCHOOLINH
+# NICK SCHOOLING TODO APP
 
 This application has been designed to allow one to create an api of todo tasks and also consume them on the application.
 
